@@ -2,7 +2,8 @@
 # Simple To-Do List Application
 
 Bienvenue dans ma simple application de to-do list ! Ce projet est une implémentation basique d'une liste de tâches sans utilisation de base de données, conçue avec un design élégant et intuitif.
-
+### Design
+![Design](https://github.com/Therax1/Todolist_Project/blob/main/img/Design.png)
 ## Fonctionnalités
 - Ajout de tâches : Ajoutez de nouvelles tâches facilement.
 
