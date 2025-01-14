@@ -15,7 +15,7 @@ Bienvenue dans ma simple application de to-do list ! Ce projet est une implémen
 
 ### Installation
 1. Clonez le répertoire du projet :
-    ```git clone <url-du-repo>```
+    ```git clone git@github.com:Therax1/Todolist_Project.git```
 
 2. Ouvrez le fichier ``` index.html ``` dans votre navigateur.
 
